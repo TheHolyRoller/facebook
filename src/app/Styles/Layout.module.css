@@ -1,0 +1,48 @@
+
+
+
+#mainContainer{
+
+
+    
+}
+
+
+
+#subContainer{
+
+
+
+}
+
+
+#gridContainer{
+
+outline: 10px solid blue; 
+width: 90vw; 
+margin: 0 auto; 
+    
+    
+}
+
+
+#grid{
+
+    width: 90vw; 
+    outline: 4px solid lime; 
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    gap: 2rem; 
+    margin: 0 auto; 
+    overflow-x: hidden; 
+    
+    
+    
+}
+
+#gridItem{
+
+    
+    
+}

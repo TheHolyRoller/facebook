@@ -2,6 +2,8 @@
 
 'use client'
 import {useState} from 'react'; 
+import Link from 'next/link'; 
+
 
 // import React from 'react '
 import c2 from '../../Styles/Card2.module.css'; 
@@ -12,6 +14,7 @@ import c2 from '../../Styles/Card2.module.css';
 function Card2() {
   return (
     <div id={c2.mainContainer} >
+    <Link href='/ProductPage2' alt="alt">
     
     <div id={c2.subContainer}>
     
@@ -63,6 +66,7 @@ function Card2() {
     
     
     
+    </Link>
     
     </div>
   );

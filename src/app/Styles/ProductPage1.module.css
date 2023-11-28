@@ -1,0 +1,71 @@
+
+
+
+#mainContainer{
+
+
+
+}
+
+
+
+#subContainer{
+
+   outline: 4px solid lime; 
+   
+   margin: 0 auto; 
+   width: 40vw; 
+   display: flex; 
+   place-items: center;
+   
+    
+}
+
+
+#textContainer{
+    
+    margin: 3rem auto; 
+    
+    
+
+    
+}
+
+
+#textPrice{
+
+
+    
+}
+
+
+#textName{
+
+    
+}
+
+
+#textMileage{
+
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

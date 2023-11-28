@@ -3,6 +3,7 @@
 import Image from 'next/image'
 import Card from './Components/Card'; 
 import Layout from './Components/Layout'; 
+import ProductPage1 from './Components/ProductPages/ProductPage1.jsx'; 
 
 export default function Home() {
   return (
@@ -11,7 +12,6 @@ export default function Home() {
       
      <div>
      
-      {/* Add in the layout component here  */}
      <Layout/> 
      
      

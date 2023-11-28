@@ -2,12 +2,15 @@
 'use client'
 import React from 'react'
 import c1 from '../../Styles/Card1.module.css'; 
-
+import Link from 'next/link'; 
 
 
 function Card1() {
   return (
     <div id={c1.mainContainer} >
+    <Link href="/ProductPage1" alt="alt">
+    
+
     
     <div id={c1.subContainer}>
     
@@ -56,8 +59,7 @@ function Card1() {
     
     </div>
     
-    
-    
+    </Link> 
     
     
     </div>

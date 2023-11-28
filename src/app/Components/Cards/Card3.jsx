@@ -4,12 +4,18 @@
 'use client'
 import React from 'react'
 import c3 from '../../Styles/Card3.module.css'; 
+import Link from 'next/link'; 
+
+
 
 // import c3 from '../Styles/Card3.module.css'; 
 
 function Card3() {
   return (
     <div id={c3.mainContainer} >
+    <Link href="/ProductPage3">
+    
+    
     
     <div id={c3.subContainer}>
     
@@ -61,6 +67,7 @@ function Card3() {
     
     
     
+    </Link>
     
     </div>
   );

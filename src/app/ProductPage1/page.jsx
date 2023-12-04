@@ -3,7 +3,6 @@ import React from 'react'
 
 import p from '../Styles/ProductPage1.module.css'; 
 
-// import p from '../../Styles/ProductPage1.module.css'; 
 
 function ProductPage1() {
   return (

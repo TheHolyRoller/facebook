@@ -5,16 +5,13 @@ import React from 'react'
 
 import p3 from '../Styles/ProductPage2.module.css'; 
 
-// import p3 from '../Styles/ProductPage1.module.css'
-// import p2 from '../../Styles/ProductPage1.module.css'; 
-
 
 
 function ProductPage3() {
   return (
     
     <div id={p3.subContainer} >
-      
+
     
     <div id={p3.textContainer} >
     

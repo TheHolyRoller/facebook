@@ -1,13 +1,9 @@
-
 'use client'
 
 import React from 'react'
 
 import p2 from '../Styles/ProductPage1.module.css'
 // import p2 from '../../Styles/ProductPage1.module.css'; 
-
-
-
 
 function ProductPage2() {
   return (

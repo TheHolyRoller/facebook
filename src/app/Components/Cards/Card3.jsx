@@ -1,6 +1,3 @@
-
-
-
 'use client'
 import React from 'react'
 import c3 from '../../Styles/Card3.module.css'; 

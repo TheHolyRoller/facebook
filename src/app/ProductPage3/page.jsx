@@ -14,11 +14,11 @@ function ProductPage3() {
   return (
     
     <div id={p3.subContainer} >
-
-    
+      
     
     <div id={p3.textContainer} >
     
+    {/* Add in the link here  */}
     
         
         <div id={p3.textPrice} >
@@ -43,7 +43,7 @@ function ProductPage3() {
     </div>
         
     
-    </div>
+
   )
 }
 

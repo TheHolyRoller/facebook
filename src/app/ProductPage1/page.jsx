@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 
 import p from '../Styles/ProductPage1.module.css'; 

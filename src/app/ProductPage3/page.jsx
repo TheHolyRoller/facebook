@@ -12,11 +12,14 @@ import p3 from '../Styles/ProductPage2.module.css';
 
 function ProductPage3() {
   return (
-    <div id={p3.mainContainer} >
     
     <div id={p3.subContainer} >
+
+    
     
     <div id={p3.textContainer} >
+    
+    
         
         <div id={p3.textPrice} >
             
